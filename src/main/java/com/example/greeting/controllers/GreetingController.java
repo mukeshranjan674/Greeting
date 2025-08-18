@@ -15,5 +15,6 @@ public class GreetingController {
 		String greeting = "Hello";
 		return new ResponseEntity<>(greeting, HttpStatus.OK);
 	}
+	
 
 }
