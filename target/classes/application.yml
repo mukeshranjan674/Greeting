@@ -1,8 +1,0 @@
-server:
-  port: 3001
-  servlet:
-    context-path: /greeting
-
-spring:
-  application:
-    name: Greeting
